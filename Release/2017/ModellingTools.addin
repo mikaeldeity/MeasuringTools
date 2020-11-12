@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>ModellingTools</Name>
+    <Assembly>.\ModellingTools\ModellingTools.dll</Assembly>
+    <AddInId>34df3205-6adc-42b0-a87f-57e362fe21ed</AddInId>
+    <FullClassName>ModellingTools.App</FullClassName>
+    <VendorId>ModellingTools</VendorId>
+    <VendorDescription>Modelling Tools for Revit</VendorDescription>
+  </AddIn>
+</RevitAddIns>

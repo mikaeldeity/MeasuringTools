@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModellingTools", "ModellingTools.csproj", "{2297DB91-C092-4F54-918B-F99A277F3D9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		2017|Any CPU = 2017|Any CPU
+		2018|Any CPU = 2018|Any CPU
+		2019|Any CPU = 2019|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2297DB91-C092-4F54-918B-F99A277F3D9B}.2017|Any CPU.ActiveCfg = 2017|Any CPU
+		{2297DB91-C092-4F54-918B-F99A277F3D9B}.2017|Any CPU.Build.0 = 2017|Any CPU
+		{2297DB91-C092-4F54-918B-F99A277F3D9B}.2018|Any CPU.ActiveCfg = 2018|Any CPU
+		{2297DB91-C092-4F54-918B-F99A277F3D9B}.2018|Any CPU.Build.0 = 2018|Any CPU
+		{2297DB91-C092-4F54-918B-F99A277F3D9B}.2019|Any CPU.ActiveCfg = 2019|Any CPU
+		{2297DB91-C092-4F54-918B-F99A277F3D9B}.2019|Any CPU.Build.0 = 2019|Any CPU
+		{2297DB91-C092-4F54-918B-F99A277F3D9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2297DB91-C092-4F54-918B-F99A277F3D9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D82D5FCA-E298-4771-B4D4-249A38CDE64F}
+	EndGlobalSection
+EndGlobal
