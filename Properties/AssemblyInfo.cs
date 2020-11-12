@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ModellingTools")]
+[assembly: AssemblyTitle("Measuring Tools")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ModellingTools")]
+[assembly: AssemblyProduct("Measuring Tools")]
 [assembly: AssemblyCopyright("Copyright ©  2019 Mikael Santrolli")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("34df3205-6adc-42b0-a87f-57e362fe21ed")]
+[assembly: Guid("2e4253ba-f615-4735-bb58-ef7fa9dc087e")]
 
 // Version information for an assembly consists of the following four values:
 //

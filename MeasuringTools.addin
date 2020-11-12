@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name>Measuring Tools</Name>
+    <Assembly>.\MeasuringTools.dll</Assembly>
+    <AddInId>2e4253ba-f615-4735-bb58-ef7fa9dc087e</AddInId>
+    <FullClassName>MeasuringTools.App</FullClassName>
+    <VendorId>Measuring Tools</VendorId>
+    <VendorDescription>Measuring Tools</VendorDescription>
+  </AddIn>
+</RevitAddIns>
